@@ -44,9 +44,5 @@ function ShowMore(Id)
         document.getElementById(Id).innerHTML = "+";
     }}
 
-
-    function aClick()
-        clicks = clicks + 1;
-        document.getElementById("numb").innerHTML = clicks
         
     
